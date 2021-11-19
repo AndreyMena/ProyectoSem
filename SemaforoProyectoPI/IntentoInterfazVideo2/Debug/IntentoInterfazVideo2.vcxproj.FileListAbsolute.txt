@@ -1,0 +1,6 @@
+C:\Users\Julián Sedó\Desktop\IntentoInterfazVideo2\IntentoInterfazVideo2\Debug\IntentoInterfazVideo2.vcxproj.AssemblyReference.cache
+C:\Users\Julián Sedó\Desktop\IntentoInterfazVideo2\IntentoInterfazVideo2\Debug\IntentoInterfazVideo2.MyForm.resources
+C:\Users\Julián Sedó\Desktop\IntentoInterfazVideo2\IntentoInterfazVideo2\Debug\IntentoInterfazVideo2.vcxproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\IntentoInterfazVideo2\IntentoInterfazVideo2\Debug\IntentoInterfazVideo2.vcxproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\IntentoInterfazVideo2\IntentoInterfazVideo2\Debug\IntentoInterfazVideo2.MyForm.resources
+C:\Users\andre\OneDrive\Escritorio\IntentoInterfazVideo2\IntentoInterfazVideo2\Debug\IntentoInterfazVideo2.vcxproj.GenerateResource.cache

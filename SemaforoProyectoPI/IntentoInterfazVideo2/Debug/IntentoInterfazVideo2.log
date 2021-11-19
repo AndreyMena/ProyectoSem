@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MyForm.obj : error LNK2028: unresolved token (0A0004C5) "extern "C" __int64 __cdecl cambiaEstado(__int64)" (?cambiaEstado@@$$J0YA_J_J@Z) referenced in function "private: void __clrcall IntentoInterfazVideo2::MyForm::button1_Click_1(class System::Object ^,class System::EventArgs ^)" (?button1_Click_1@MyForm@IntentoInterfazVideo2@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z)
+MyForm.obj : error LNK2019: unresolved external symbol "extern "C" __int64 __cdecl cambiaEstado(__int64)" (?cambiaEstado@@$$J0YA_J_J@Z) referenced in function "private: void __clrcall IntentoInterfazVideo2::MyForm::button1_Click_1(class System::Object ^,class System::EventArgs ^)" (?button1_Click_1@MyForm@IntentoInterfazVideo2@@$$FA$AAMXP$AAVObject@System@@P$AAVEventArgs@4@@Z)
+C:\Users\andre\OneDrive\Escritorio\IntentoInterfazVideo2\Debug\IntentoInterfazVideo2.exe : fatal error LNK1120: 2 unresolved externals
